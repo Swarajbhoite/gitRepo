@@ -1,3 +1,3 @@
 def mergesort():
 	print("Merge sort func")
-	print("Modified")
+print("Added New change to")
